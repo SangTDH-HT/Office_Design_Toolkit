@@ -1,0 +1,33 @@
+# ghi_chu (ten file trong memory, khong .md)	dich (duong dan trong repo)
+# Chi ghi chu sach (khong ten du an); sync.py tu bo qua ghi chu dinh tu cam.
+# Ghi chu da luoc tay nam thang trong repo, khong co o day.
+# --- office-phong-cach
+word-com-docx-gotchas	skills/office-phong-cach/references/word-com-bay.md
+word-seq-caption-field	skills/office-phong-cach/references/word-caption-seq.md
+khbd-nhu-form-chuan	skills/office-phong-cach/references/word-form-khbd.md
+ask-before-killing-user-apps	skills/office-phong-cach/references/file-office-bi-khoa.md
+ps51-utf8-script-encoding	skills/office-phong-cach/references/ps51-utf8-tieng-viet.md
+python-sua-file-newline	skills/office-phong-cach/references/python-newline-crlf.md
+sendkeys-bi-bo-go-tieng-viet-an	skills/office-phong-cach/references/sendkeys-bo-go-tieng-viet.md
+# --- tai-lieu-pdf
+pdf-tu-html-bang-chrome-mathjax	skills/tai-lieu-pdf/references/html-pdf-chrome-mathjax.md
+google-fonts-thieu-dau-tieng-viet	skills/tai-lieu-pdf/references/font-tieng-viet.md
+bai-tap-dang-bai-lam-de-chep	skills/tai-lieu-pdf/references/bai-lam-de-chep.md
+de-xuat-phai-co-do-thi-dep	skills/tai-lieu-pdf/references/de-xuat-co-do-thi.md
+mp-mes-bo-huong-dan-chay-may	skills/tai-lieu-pdf/references/huong-dan-chay-may-mp-mes.md
+drawio-dark-mode-mau-mac-dinh	skills/tai-lieu-pdf/references/drawio-che-do-toi.md
+drawio-rhombus-anchor	skills/tai-lieu-pdf/references/drawio-hinh-thoi.md
+# --- ui-ux-quy-trinh
+doc-lenh-chi-cho-hien	skills/ui-ux-quy-trinh/references/doc-lenh-giao-dien.md
+chup-wpf-khong-dung-mp-shell-app	skills/ui-ux-quy-trinh/references/chup-wpf-an-toan.md
+mp-mes-man-tram-1280x1024	skills/ui-ux-quy-trinh/references/co-gian-theo-man.md
+# --- da luoc tay (dau '='): khong chep, chi de noi lien ket giua cac ghi chu
+=illustrator-mcp-cai-dat	skills/adobe-phong-cach/references/illustrator-mcp-python.md
+=bash-heredoc-nuot-dau-gach-nguoc	skills/office-phong-cach/references/bash-heredoc-gach-nguoc.md
+=csc-can-bom-cho-tieng-viet	skills/office-phong-cach/references/bom-tieng-viet.md
+=powershell-bien-khong-phan-biet-hoa-thuong	skills/office-phong-cach/references/powershell-bien-hoa-thuong.md
+=hdsd-anh-khoanh-vung-leader-line	skills/tai-lieu-pdf/references/hdsd-leader-line.md
+=mp-mes-giao-dien-theo-theme	skills/ui-ux-quy-trinh/references/app-wpf-theo-theme.md
+=thiet-ke-ui-dung-skill-frontend-design	skills/ui-ux-quy-trinh/references/frontend-design-truoc.md
+=soat-ux-bang-ui-ux-pro-max	skills/ui-ux-quy-trinh/references/soat-ux-pro-max.md
+=khong-chiem-chuot-khi-thu-ui	skills/ui-ux-quy-trinh/references/thu-ui-khong-chiem-chuot.md

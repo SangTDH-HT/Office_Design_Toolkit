@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="t">
+  <title id="t">Office Design Toolkit: skill Claude cho tài liệu Office, Adobe và thiết kế UI/UX</title>
+  <style>
+    text { font-family: 'Segoe UI', 'Be Vietnam Pro', 'Helvetica Neue', Arial, sans-serif; }
+    .ink { fill: #DCE6F5; }
+    .sub { fill: #A9B0BA; }
+    .call { fill: none; stroke: #5B9BF0; stroke-width: 1.5; stroke-dasharray: 6 4; }
+    .lead { stroke: #5B9BF0; stroke-width: 1.5; stroke-dasharray: 4 4; }
+    .sheet { fill: #232A34; stroke: #3A4250; stroke-width: 1.5; }
+    .line { fill: #3A4250; }
+    .badge { fill: #5B9BF0; }
+    .num { fill: #0E1A2B; font-size: 14px; font-weight: 700; }
+    .lab { fill: #DCE6F5; font-size: 17px; font-weight: 600; }
+  </style>
+  <rect width="1280" height="360" fill="#1B2129"/>
+
+  <text x="64" y="156" class="ink" font-size="48" font-weight="600">Office Design Toolkit</text>
+  <text x="66" y="202" class="sub" font-size="20">Skill Claude cho tài liệu Office, Adobe</text>
+  <text x="66" y="232" class="sub" font-size="20">và thiết kế giao diện UI/UX</text>
+
+  <!-- 1 · trang A4, lề 2-2-3-2 cm -->
+  <rect x="700" y="80" width="124" height="176" class="sheet"/>
+  <rect x="718" y="92" width="94" height="152" fill="none" stroke="#3A4250" stroke-width="1" stroke-dasharray="2 2"/>
+  <rect x="724" y="99" width="60" height="6" class="ink"/>
+  <rect x="724" y="113" width="82" height="3" class="line"/>
+  <rect x="724" y="120" width="86" height="3" class="line"/>
+  <rect x="724" y="127" width="76" height="3" class="line"/>
+  <rect x="724" y="134" width="84" height="3" class="line"/>
+  <rect x="724" y="141" width="50" height="3" class="line"/>
+  <rect x="722" y="154" width="88" height="52" fill="none" stroke="#6B7480" stroke-width="1"/>
+  <line x1="766" y1="154" x2="766" y2="206" stroke="#6B7480" stroke-width="1"/>
+  <line x1="722" y1="164" x2="810" y2="164" stroke="#6B7480" stroke-width="1"/>
+  <rect x="728" y="174" width="30" height="3" class="line"/>
+  <rect x="728" y="182" width="24" height="3" class="line"/>
+  <rect x="772" y="174" width="32" height="3" class="line"/>
+  <rect x="772" y="182" width="26" height="3" class="line"/>
+  <rect x="724" y="216" width="84" height="3" class="line"/>
+  <rect x="724" y="223" width="70" height="3" class="line"/>
+  <rect x="724" y="230" width="80" height="3" class="line"/>
+  <rect x="690" y="70" width="144" height="196" class="call"/>
+  <line x1="762" y1="266" x2="762" y2="300" class="lead"/>
+  <rect x="679" y="59" width="22" height="22" rx="4" class="badge"/>
+  <text x="690" y="75" class="num" text-anchor="middle">1</text>
+  <text x="762" y="324" class="lab" text-anchor="middle">Office</text>
+
+  <!-- 2 · artboard Illustrator, đường bezier có tay nắm -->
+  <rect x="880" y="100" width="160" height="120" class="sheet"/>
+  <path d="M898 178 C930 114 990 114 1022 178" fill="none" stroke="#DCE6F5" stroke-width="2.5"/>
+  <line x1="898" y1="178" x2="930" y2="114" stroke="#5B9BF0" stroke-width="1"/>
+  <line x1="1022" y1="178" x2="990" y2="114" stroke="#5B9BF0" stroke-width="1"/>
+  <circle cx="930" cy="114" r="3.5" fill="#232A34" stroke="#5B9BF0" stroke-width="1.5"/>
+  <circle cx="990" cy="114" r="3.5" fill="#232A34" stroke="#5B9BF0" stroke-width="1.5"/>
+  <rect x="894" y="174" width="8" height="8" fill="#5B9BF0"/>
+  <rect x="1018" y="174" width="8" height="8" fill="#232A34" stroke="#5B9BF0" stroke-width="1.5"/>
+  <rect x="898" y="198" width="12" height="12" fill="#DCE6F5"/>
+  <rect x="914" y="198" width="12" height="12" fill="#5B9BF0"/>
+  <rect x="930" y="198" width="12" height="12" fill="#2E9B45"/>
+  <rect x="946" y="198" width="12" height="12" fill="#A9B0BA"/>
+  <rect x="870" y="90" width="180" height="140" class="call"/>
+  <line x1="960" y1="230" x2="960" y2="300" class="lead"/>
+  <rect x="859" y="79" width="22" height="22" rx="4" class="badge"/>
+  <text x="870" y="95" class="num" text-anchor="middle">2</text>
+  <text x="960" y="324" class="lab" text-anchor="middle">Adobe</text>
+
+  <!-- 3 · cửa sổ ứng dụng: thanh trên, cột icon, đồ thị cột, nút có vòng focus -->
+  <rect x="1080" y="96" width="150" height="130" class="sheet"/>
+  <rect x="1081" y="97" width="148" height="18" fill="#3A4250"/>
+  <rect x="1088" y="104" width="28" height="4" fill="#A9B0BA"/>
+  <rect x="1172" y="102" width="50" height="8" rx="4" fill="#232A34"/>
+  <rect x="1081" y="115" width="24" height="110" fill="#1B2129"/>
+  <rect x="1088" y="124" width="10" height="10" fill="#A9B0BA"/>
+  <rect x="1088" y="142" width="10" height="10" fill="#3A4250"/>
+  <rect x="1088" y="160" width="10" height="10" fill="#3A4250"/>
+  <rect x="1114" y="125" width="54" height="6" class="ink"/>
+  <rect x="1114" y="137" width="40" height="3" class="line"/>
+  <line x1="1114" y1="208" x2="1172" y2="208" stroke="#3A4250" stroke-width="1"/>
+  <rect x="1116" y="186" width="10" height="22" fill="#5B9BF0"/>
+  <rect x="1130" y="174" width="10" height="34" fill="#DCE6F5"/>
+  <rect x="1144" y="192" width="10" height="16" fill="#5B9BF0"/>
+  <rect x="1158" y="180" width="10" height="28" fill="#5B9BF0"/>
+  <rect x="1182" y="194" width="38" height="16" rx="3" class="badge"/>
+  <rect x="1178.5" y="190.5" width="45" height="23" rx="5" fill="none" stroke="#DCE6F5" stroke-width="1.5"/>
+  <rect x="1070" y="86" width="170" height="150" class="call"/>
+  <line x1="1155" y1="236" x2="1155" y2="300" class="lead"/>
+  <rect x="1059" y="75" width="22" height="22" rx="4" class="badge"/>
+  <text x="1070" y="91" class="num" text-anchor="middle">3</text>
+  <text x="1155" y="324" class="lab" text-anchor="middle">UI/UX</text>
+</svg>

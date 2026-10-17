@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "illustrator": {
+      "type": "stdio",
+      "command": "C:/Users/Admin/illustrator-mcp/.venv/Scripts/python.exe",
+      "args": [
+        "-m",
+        "illustrator"
+      ],
+      "env": {}
+    }
+  }
+}

@@ -1,0 +1,4 @@
+https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+version 2.15.0
+commit 56ea9cf
+Chep nguyen ban tu .claude/skills/* cua repo goc (MIT). scripts/install.ps1 doi duong dan khi cai.

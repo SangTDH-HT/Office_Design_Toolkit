@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "photoshop": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "<thu muc cai>/node_modules/@alisaitteke/photoshop-mcp/dist/index.js"
+      ],
+      "env": {
+        "PHOTOSHOP_PATH": "<duong dan Photoshop.exe>",
+        "ANALYTICS_DISABLED": "1",
+        "PSMCP_FEEDBACK": "0",
+        "LOG_LEVEL": "2"
+      }
+    }
+  }
+}
